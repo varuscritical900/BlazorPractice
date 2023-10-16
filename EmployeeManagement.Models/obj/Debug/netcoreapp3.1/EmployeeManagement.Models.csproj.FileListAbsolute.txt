@@ -1,0 +1,10 @@
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.deps.json
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csproj.AssemblyReference.cache
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.AssemblyInfoInputs.cache
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.AssemblyInfo.cs
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+C:\Users\marc_\OneDrive\Desktop\Kudvenkat\Blazor\Projects\BlazorTutorial\EmployeeManagement.Models\obj\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
